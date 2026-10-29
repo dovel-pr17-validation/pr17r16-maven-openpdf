@@ -90,7 +90,7 @@
     <brotli4j.version>1.23.0</brotli4j.version>
     <commons-io.version>2.22.0</commons-io.version>
     <dom4j.version>2.2.0</dom4j.version>
-    <fop.version>2.11</fop.version>
+    <fop.version>2.12</fop.version>
     <jakarta.servlet-api.version>6.1.0</jakarta.servlet-api.version>
     <jcommon.version>1.0.24</jcommon.version>
     <jfreechart.version>1.5.6</jfreechart.version>
